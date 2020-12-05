@@ -1,4 +1,4 @@
-function gettingJSON(){
+function getJSON(){
     //Display the forecast
     // Your code here.
     document.querySelector('#forecast').style.display = "block";
